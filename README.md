@@ -14,7 +14,7 @@
     <img align = "center" alt = "CP-CSS" height = "30" width = "90" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align = "center" alt = "CP-react" height = "30" width = "90" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align = "center" alt = "CP-R" height = "30" width = "60" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
- <img align = "right" alt = "GIF" src = "https://media.discordapp.net/attachments/825410526677827638/1000071179614289951/ezgif.com-gif-maker.gif?width=406&height=406">
+ <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/98360873/180815589-3247d3cd-96a2-46fd-865b-badee5b5d77e.gif">
        
   </div>
   
@@ -26,3 +26,4 @@
 
     
  </div>
+
