@@ -1,10 +1,11 @@
 ### Olá! Eu sou a Cássia Pires 😄
  <img align = "right" alt = "GIF" height = "100" width = "100" src = "https://github.com/C455i4/C455i4/blob/C455i4/ezgif.com-gif-maker.gif">
-       
+  
  <div align = "centro">
   <a href = "https://beacons.ai/C455i4">
   <img height = "180em" src = "https://github-readme-status.vercel.app/api?username=C455i4&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height - "180em" src = "https://github-readme-status.vercel.app/api/top-langs/?username=C455i4&layout=compact&langs_count=7&theme=cobalt" />
+  
  </div>
 
  <div style = "display: inline_block"> <br>
