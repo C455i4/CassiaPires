@@ -9,14 +9,14 @@
  </div>
 
  <div style = "display: inline_block"> <br>
-   <img align = "center" alt = "CP-WordPress" height = "30" width = "120" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-   <img align = "center" alt = "CP-MySQL" height = "30" width = "100" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align = "center" alt = "CP-Python" height = "30" width = "100" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-   <img align = "center" alt = "CP-Js" height = "30" width = "120" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align = "center" alt = "CP-HTML" height = "30" width = "110" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align = "center" alt = "CP-CSS" height = "30" width = "90" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align = "center" alt = "CP-react" height = "30" width = "90" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align = "center" alt = "CP-R" height = "30" width = "60" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align = "center" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" align = "center" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align = "center" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align = "center" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align = "center" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" align = "center" width="40" height="40"/>
+   
  
  
   </div>
@@ -32,3 +32,4 @@
     
  </div>
 
+![Snake animation](https://github.com/C455i4/C455i4/blob/output/github-contribution-grid-snake.svg)
