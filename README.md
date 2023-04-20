@@ -1,12 +1,9 @@
-
-
- 
-  
+### Olá! Eu sou a Cássia Pires 😄
+### Bem Vindo ao meu perfil!
 
 
  <div style = "display: inline_block" align="center"> <br>
-	### Olá! Eu sou a Cássia Pires 😄
-	### Bem Vindo ao meu perfil!
+	
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align = "center" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" align = "center" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" width="40" height="40"/>
