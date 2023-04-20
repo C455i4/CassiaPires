@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Cássia Pires 😄
+### Bem Vindo ao meu perfil!
  <img align = "right" alt = "GIF" height = "100" width = "100" src = "https://github.com/C455i4/C455i4/blob/C455i4/ezgif.com-gif-maker.gif">
   
  <div align = "centro">
