@@ -17,19 +17,6 @@
 <div id="header" align="center">
 	  <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
 	</div>
-	
-	<div id="user_count" align="center">
-	  <img src="https://komarev.com/ghpvc/?username=VinceVence&style=flat-square&color=blue" alt="user_views"/>
-	</div>
-	
-	<h1 align="center">
-	  “How do lions greet other animals? Pleased to eat you!”
-	  <img src="https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s" width="70px"/>
-	</h1>
-	
-	<div align="center">
-	  <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="600" height="300"/>
-	</div>
 
 
   #
