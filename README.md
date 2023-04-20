@@ -1,6 +1,9 @@
 ### Olá! Eu sou a Cássia Pires 😄
 ### Bem Vindo ao meu perfil!
- <img align = "right" alt = "GIF" height = "100" width = "100" src = "https://github.com/C455i4/C455i4/blob/C455i4/ezgif.com-gif-maker.gif">
+
+ <div id="header" align="right">
+	  <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
+	</div>
   
  <div align = "centro">
  </div>
@@ -15,9 +18,7 @@
 
 
 
-<div id="header" align="center">
-	  <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
-	</div>
+
 
 
   #
