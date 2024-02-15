@@ -29,5 +29,6 @@
     
  </div>
 
-![Snake animation](https://github.com/C455i4/C455i4/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C455i4&show_icons=true&theme=radical)
+
 
