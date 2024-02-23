@@ -1,5 +1,6 @@
-### Olá! Eu sou a Cássia Pires 😄
-### Bem Vindo ao meu perfil!
+### Oi pessoal! Eu sou a Cássia Pires, uma entusiasta da tecnologia e aprendiz de programação! 😄
+### Fico feliz em te receber no meu perfil! Vamos embarcar juntos nessa incrível jornada de aprendizado. Vem comigo!
+
 
 
  <div style = "display: inline_block" align="center"> <br>
